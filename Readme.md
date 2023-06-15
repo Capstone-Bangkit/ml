@@ -29,9 +29,9 @@ In other words, GymThings is application that can help beginners how to face usi
 - Put the dataset on your own Notebook
 
 ## C23-PC683 Capstone Project
-1. [Difa Putri Chairunisa](https://github.com/difaputric) – Telkom University (A360DSY3548)
+1. Difa Putri Chairunisa – Telkom University (A360DSY3548)
 2. Rafid Munawir – Sepuluh Nopember Institute of Technology (M038DKX4800)
 3. Alfina Rahmawati – Diponegoro University (M166DSY3314)
-4. [Rizqulloh Rayhan Ferdiansyah](https://github.com/RizqullohRayhanUNSD3TI) – Sebelas Maret University (M340DSX3721)
-5. [Anggoro Yudha Pratama](https://github.com/yudha34) – Esa Unggul University (C168DSX2681)
-6. [Muhamamd Akmal](https://github.com/akmalhisqie) – Bina Insani University (C148DSX0675)
+4. Rizqulloh Rayhan Ferdiansyah – Sebelas Maret University (M340DSX3721)
+5. Anggoro Yudha Pratama](https://github.com/yudha34) – Esa Unggul University (C168DSX2681)
+6. Muhammad Akmal – Bina Insani University (C148DSX0675)
