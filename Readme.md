@@ -33,5 +33,5 @@ In other words, GymThings is application that can help beginners how to face usi
 2. Rafid Munawir – Sepuluh Nopember Institute of Technology (M038DKX4800)
 3. Alfina Rahmawati – Diponegoro University (M166DSY3314)
 4. Rizqulloh Rayhan Ferdiansyah – Sebelas Maret University (M340DSX3721)
-5. Anggoro Yudha Pratama](https://github.com/yudha34) – Esa Unggul University (C168DSX2681)
+5. Anggoro Yudha Pratama – Esa Unggul University (C168DSX2681)
 6. Muhammad Akmal – Bina Insani University (C148DSX0675)
