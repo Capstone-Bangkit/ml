@@ -13,20 +13,35 @@ In other words, GymThings is application that can help beginners how to face usi
 ## Feature
 - Scan the gym equipment
 - Show the name of the equipment
-- Tell users how to use the equiment
+- Tell users how to use the equipment
+
 
 ## Tech
-- [Kaggle](https://www.kaggle.com/code/rayhanferdiansyah/capstone) - Notebook
 - [Google Colab](https://colab.research.google.com/drive/1iaRufRwf0EWYWkNPRQVd2bpbg9QKGgw-) - Notebook
-- [Kaggle](https://www.kaggle.com/datasets/dutt2302/gym-equipment) - Dataset
-- [roboflow](https://universe.roboflow.com/public-workspace-j4gzu/gym-equipment) - Dataset
+- [GitHub](https://github.com/Capstone-Bangkit/ml/tree/main/data) - Dataset
+
+## Dataset
+The dataset used for training and evaluation consists of labeled images of gym equipment. The dataset is divided into six classes, each representing a specific type of gym equipment. The classes are as follows:
+1. Bench press
+2. Bicycle
+3. Leg press
+4. Pec deck
+5. Rowing
+6. Treadmill
+
+The dataset is split into training and validation sets. The training set is used to train the model, the validation set is used for hyperparameter tuning.
+
+## Model
+The image classification model is developed using deep learning techniques. Convolutional Neural Networks (CNNs) are employed to extract relevant features from the input images. The model is trained using the training set and optimized using a suitable loss function and an appropriate optimizer. The hyperparameters are tuned using the validation set to achieve optimal performance.
+
+## Output
+The output of capstone.ipynb notebook is a TFLite model with name __model.tflite__
 
 ## Installation
-- Search the dataset that will be used
 - Clone this repository
-  https://github.com/Capstone-Bangkit/ml.git
-- Create your own Notebook
-- Put the dataset on your own Notebook
+  ```bash
+  git clone https://github.com/Capstone-Bangkit/ml.git
+  ```
 
 ## C23-PC683 Capstone Project
 1. Difa Putri Chairunisa – Telkom University (A360DSY3548)
